@@ -1,6 +1,6 @@
 locals {
   project = "project-rds-mysql"
-  region  = "us-east-1"
+  region  = "us-east-2"
   zones   = ["us-east-1a", "us-east-1b", "us-east-1f"]
 
 
